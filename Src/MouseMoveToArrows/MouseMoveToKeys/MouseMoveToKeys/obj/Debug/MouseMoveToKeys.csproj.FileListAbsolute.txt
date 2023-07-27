@@ -1,0 +1,28 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.exe.config
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\bin\Debug\MouseMoveToKeys.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.Form1.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\MouseMoveToArrows\MouseMoveToKeys\MouseMoveToKeys\obj\Debug\MouseMoveToKeys.pdb

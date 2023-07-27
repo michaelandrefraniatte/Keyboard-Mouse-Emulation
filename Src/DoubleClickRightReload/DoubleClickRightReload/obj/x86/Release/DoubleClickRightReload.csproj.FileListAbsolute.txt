@@ -1,0 +1,19 @@
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\bin\Release\DoubleClickRightReload.exe
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\bin\Release\DoubleClickRightReload.pdb
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.exe
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.Form1.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\bin\Release\DoubleClickRightReload.exe.config
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\bin\Release\DoubleClickRightReload.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\bin\Release\DoubleClickRightReload.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Release\DoubleClickRightReload.csproj.CopyComplete

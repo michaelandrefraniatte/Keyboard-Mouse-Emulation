@@ -1,0 +1,9 @@
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\wiimoteoncod9 (finished)\PressToPush\PressToPush\bin\Debug\PressToPush.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\wiimoteoncod9 (finished)\PressToPush\PressToPush\bin\Debug\PressToPush.pdb
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\wiimoteoncod9 (finished)\PressToPush\PressToPush\obj\x86\Debug\PressToPush.Form1.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\wiimoteoncod9 (finished)\PressToPush\PressToPush\obj\x86\Debug\PressToPush.Properties.Resources.resources
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\wiimoteoncod9 (finished)\PressToPush\PressToPush\obj\x86\Debug\PressToPush.csproj.GenerateResource.Cache
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\wiimoteoncod9 (finished)\PressToPush\PressToPush\obj\x86\Debug\PressToPush.exe
+C:\Users\Caramel\Documents\Visual Studio 2010\Projects\wiimoteoncod9 (finished)\PressToPush\PressToPush\obj\x86\Debug\PressToPush.pdb
+C:\Users\Caramel\Documents\micedition\PressToPush\PressToPush\obj\x86\Debug\PressToPush.exe
+C:\Users\Caramel\Documents\micedition\PressToPush\PressToPush\obj\x86\Debug\PressToPush.pdb

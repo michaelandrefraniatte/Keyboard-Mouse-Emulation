@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\obj\x86\Release\ShockMouse.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\obj\x86\Release\ShockMouse.Form1.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\obj\x86\Release\ShockMouse.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\obj\x86\Release\ShockMouse.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\obj\x86\Release\ShockMouse.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\bin\x86\Release\ShockMouse.exe.config
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\bin\x86\Release\ShockMouse.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\bin\x86\Release\ShockMouse.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\obj\x86\Release\ShockMouse.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\ShockMouse\ShockMouse\obj\x86\Release\ShockMouse.pdb

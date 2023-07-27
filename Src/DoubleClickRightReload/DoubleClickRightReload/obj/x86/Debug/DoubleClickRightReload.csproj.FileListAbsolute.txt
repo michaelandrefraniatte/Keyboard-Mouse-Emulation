@@ -1,0 +1,8 @@
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\bin\Debug\DoubleClickRightReload.exe
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\bin\Debug\DoubleClickRightReload.pdb
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Debug\DoubleClickRightReload.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Debug\DoubleClickRightReload.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Debug\DoubleClickRightReload.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Debug\DoubleClickRightReload.exe
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Debug\DoubleClickRightReload.pdb
+C:\Users\Mic\Documents\Visual Studio 2010\Projects\DoubleClickRightReload\DoubleClickRightReload\obj\x86\Debug\DoubleClickRightReload.csprojResolveAssemblyReference.cache

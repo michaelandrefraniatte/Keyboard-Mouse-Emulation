@@ -1,0 +1,9 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\bin\Release\ShockMouse.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\bin\Release\ShockMouse.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\bin\Release\ShockMouse.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\obj\Release\ShockMouse.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\obj\Release\ShockMouse.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\obj\Release\ShockMouse.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\obj\Release\ShockMouse.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\obj\Release\ShockMouse.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\ShockMouse\ShockMouse\obj\Release\ShockMouse.pdb

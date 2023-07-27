@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\bin\Release\CancelReload.exe.config
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\bin\Release\CancelReload.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\bin\Release\CancelReload.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.Form1.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.exe
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.pdb
+C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\Release\CancelReload.csproj.CopyComplete
