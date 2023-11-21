@@ -1,8 +1,0 @@
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\bin\Release\AutoFireAutoSwitchCuphead.exe
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\bin\Release\AutoFireAutoSwitchCuphead.pdb
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\obj\x86\Release\AutoFireAutoSwitchCuphead.AutoFireAutoSwitchCuphead.resources
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\obj\x86\Release\AutoFireAutoSwitchCuphead.Properties.Resources.resources
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\obj\x86\Release\AutoFireAutoSwitchCuphead.csproj.GenerateResource.Cache
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\obj\x86\Release\AutoFireAutoSwitchCuphead.exe
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\obj\x86\Release\AutoFireAutoSwitchCuphead.pdb
-C:\Users\Mic\Documents\Visual Studio 2010\Projects\AutoFireAutoSwitchCuphead\AutoFireAutoSwitchCuphead\obj\x86\Release\AutoFireAutoSwitchCuphead.csprojResolveAssemblyReference.cache
