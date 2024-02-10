@@ -17,3 +17,14 @@ C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\KeepAimDownSight\Keep
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\KeepAimDownSight\KeepAimDownSight\bin\Release\KeepAimDownSight.exe
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\KeepAimDownSight\KeepAimDownSight\bin\Release\KeepAimDownSight.pdb
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.csproj.CopyComplete
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\bin\Release\KeepAimDownSight.exe.config
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\bin\Release\KeepAimDownSight.exe
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\bin\Release\KeepAimDownSight.pdb
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.Form1.resources
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.Properties.Resources.resources
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.csproj.CopyComplete
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.exe
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\KeepAimDownSight\KeepAimDownSight\obj\x86\Release\KeepAimDownSight.pdb

@@ -8,3 +8,13 @@ C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\PressToPush\PressToPu
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\PressToPush\PressToPush\bin\Release\PressToPush.pdb
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.exe
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.pdb
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\bin\Release\PressToPush.exe.config
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\bin\Release\PressToPush.exe
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\bin\Release\PressToPush.pdb
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.Form1.resources
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.Properties.Resources.resources
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.exe
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\PressToPush\PressToPush\obj\x86\Release\PressToPush.pdb

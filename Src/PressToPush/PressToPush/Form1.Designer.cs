@@ -36,9 +36,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(81, 39);
+            this.button2.Location = new System.Drawing.Point(108, 48);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(62, 33);
+            this.button2.Size = new System.Drawing.Size(83, 41);
             this.button2.TabIndex = 7;
             this.button2.Text = "STOP";
             this.button2.UseVisualStyleBackColor = true;
@@ -46,9 +47,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(22, 39);
+            this.button1.Location = new System.Drawing.Point(29, 48);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(62, 33);
+            this.button1.Size = new System.Drawing.Size(83, 41);
             this.button1.TabIndex = 6;
             this.button1.Text = "START";
             this.button1.UseVisualStyleBackColor = true;
@@ -77,24 +79,27 @@
             " Right arrow",
             " Up arrow",
             " Down arrow"});
-            this.comboBox1.Location = new System.Drawing.Point(22, 12);
+            this.comboBox1.Location = new System.Drawing.Point(29, 15);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.Size = new System.Drawing.Size(160, 24);
             this.comboBox1.TabIndex = 4;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::PressToPush.Properties.Resources.Image;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(162, 91);
+            this.ClientSize = new System.Drawing.Size(216, 112);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "PressToPush";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.ResumeLayout(false);
 
         }

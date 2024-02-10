@@ -17,3 +17,14 @@ C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelRe
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.exe
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.pdb
 C:\Users\mic\Documents\GitHub\Keyboard-Mouse-Emulation\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.csproj.CopyComplete
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\bin\Release\CancelReload.exe.config
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\bin\Release\CancelReload.exe
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\bin\Release\CancelReload.pdb
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.Form1.resources
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.Properties.Resources.resources
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.csproj.CopyComplete
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.exe
+C:\Users\micha\Documents\github\Keyboard-Mouse-Emulation-Official\Src\CancelReload\CancelReload\obj\x86\Release\CancelReload.pdb

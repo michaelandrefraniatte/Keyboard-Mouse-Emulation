@@ -57,6 +57,23 @@ namespace PushReload
             thrPushReload = new System.Threading.Thread(new System.Threading.ThreadStart(PushReload));
             thrPushReload.Start();
         }
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            OnKeyDown(e.KeyData);
+        }
+        private void OnKeyDown(Keys keyData)
+        {
+            if (keyData == Keys.F1)
+            {
+                const string message = "• Author: Michaël André Franiatte.\n\r\n\r• Contact: michael.franiatte@gmail.com.\n\r\n\r• Publisher: https://github.com/michaelandrefraniatte.\n\r\n\r• Copyrights: All rights reserved, no permissions granted.\n\r\n\r• License: Not open source, not free of charge to use.";
+                const string caption = "About";
+                MessageBox.Show(message, caption, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            if (keyData == Keys.Escape)
+            {
+                this.Close();
+            }
+        }
         [System.Runtime.InteropServices.StructLayout(System.Runtime.InteropServices.LayoutKind.Explicit)]
         struct MOUSEKEYBDHARDWAREINPUT
         {
@@ -91,6 +108,7 @@ namespace PushReload
             public uint Time;
             public IntPtr ExtraInfo;
         }
+
         private static INPUT[] Micek = new INPUT[1], MiceW3 = new INPUT[1], Micewu = new INPUT[1], down = new INPUT[1], up = new INPUT[1], Micel = new INPUT[1], Micelf = new INPUT[1], Micerc = new INPUT[1], Micercf = new INPUT[1], Micemc = new INPUT[1], Micewd = new INPUT[1], Micemcf = new INPUT[1];
         private static class SendE
         {
